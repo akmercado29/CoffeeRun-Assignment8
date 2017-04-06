@@ -1,28 +1,12 @@
 {
   "coffeeorders": [
     {
-      "coffee": "neworder",
-      "emailAddress": "newtest@bignerdranch.com",
+      "coffee": "decaf",
+      "emailAddress": "Arjen@bignerdranch.com",
       "size": "tall",
       "flavor": "",
       "strength": "30",
-      "id": "newtest@bignerdranch.com"
-    },
-    {
-      "coffee": "dark roast",
-      "emailAddress": "Arjen@bignerdranch.com",
-      "size": "grande",
-      "flavor": "caramel",
-      "strength": "100",
       "id": "Arjen@bignerdranch.com"
-    },
-    {
-      "coffee": "morning coffee",
-      "emailAddress": "dr@bignerdranch.com",
-      "size": "short",
-      "flavor": "almond",
-      "strength": "100",
-      "id": "dr@bignerdranch.com"
     }
   ]
 }
